@@ -6,7 +6,7 @@ Installation Instructions
 
 ```
 TWITTER = {
-    "apiKey": "<YOU-API-KEY-HERE>",
-    "apiSecretKey": "<YOU-API-SECRET-KEY-HERE>"
+    "apiKey": "<YOUR-API-KEY-HERE>",
+    "apiSecretKey": "<YOUR-API-SECRET-KEY-HERE>"
 }
 ```
